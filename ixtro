@@ -1,0 +1,220 @@
+div{
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+    border: solid gold 5px;
+    background-color: rgb(52, 184, 19);
+    margin: auto;
+    text-align: center
+}
+.b2{
+    background-color: blue;
+}
+
+}
+
+ 
+
+body{
+    background-color: aqua;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index231.css">
+</head>
+<body>
+    <div class="box">
+        <h1>Log in</h1>
+        <p>somy that login is nomed</p><br><br>
+        <label for="">user name</label><br>
+        <input type="text"><br>
+        <label for="">password</label><br>
+        <input type="text"><br><br>
+        <input class="a1" type="button" value="Log in">
+    </div>
+</body>
+</html>
+.box{
+    margin: auto;
+    padding-left: 15%;
+    width: 350px;
+    height: 500px;
+    background-color: rgb(23, 204, 204);
+
+}
+.a1{
+    width: 170px;
+    height: 40px;
+    background-color: brown;
+}
+p{
+    width: 170px;
+    height: 30px;
+    background-color: blue;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ihtro.css">
+    <style>
+        div{display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    div img {
+        width: 400px;
+        height: 300px;
+        border: 2px solid chocolate;
+        border-radius: 13px;
+        box-shadow: 4px 7px 7px 0x #00000042; 
+        cursor: pointer;
+        margin: 10px;
+        transition: 400ms;
+    }
+    div img :hover{
+        filter: grayscale(1);
+        transform: scale(1.03);
+    }
+    </style>
+</head>
+<body>
+    <div>
+        
+        <img src="rasm.jpg" alt="">
+        <img src="rasm1.jpg" alt="">
+        <img src="rasm2.jpg" alt="">
+        <img src="/2022_06_25_19_39_IMG_0254.JPG" alt="">
+        <img src="/photo_2023-02-21_14-57-12.jpg" alt="">
+        <img src="/photo_2023-02-21_15-00-10.jpg" alt="">
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bekarchlik1.css">
+</head>
+</body> 
+      <div>
+        <center class="b1">MENING QARINDOSHLARIM SAYTI</center><br>
+        <center>   <label for="">Telefon yoki email manzili</label><br>
+            <input type="text"><br>
+            <label for="">Parol</label><br>
+            <input type="text"><BR></BR>
+            <input class="salom1" type="button" value="OK ga KIRISH"><br><br>
+            <input class="salom2" type="button" value="QR kod orqali kirish"><br>
+            
+    </center>
+    
+     
+        
+      </div> 
+</body>
+</html>
+body{
+    background-image:  url(/ok\ 1.jpg);
+}
+div{
+    margin: auto;
+    padding-top: 5%;
+    padding-right:30px ;
+    width: 500px;
+    height: 500px;
+    background-color: azure;
+    
+  
+}
+.salom1{
+    width: 180px;
+    border-radius: 10px;
+    background-color: rgb(222, 199, 135);
+    font-family: Tahoma, Verdana, sans-serif;
+}
+.salom2{
+    width: 180px;
+    border-radius: 10px;
+    background-color: rgb(212, 245, 229);
+}
+.b1{
+   text-shadow: 10px 5px 8px rgb(30, 210, 84);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="dars2.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
+    <style>
+       .font-effect-fire {
+  font-family: "neon",
+  font-size: 50px;
+  color: rgb(228, 15, 0);
+}
+    </style>
+<body>
+    <div class="a1"></div>
+    <div class="neon effect">Google</div>
+    <div class="a3"></div>
+    <div class="a4"></div>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="darslikk.css">
+</head>
+<body>
+    <h1><center>The input formaction attribute</center></h1>
+   <div>
+    Full Name <br>
+    <input type="text"><br>
+    Coutry <br>
+    <input type="text"><br><br>
+    <input class="b2" type="button" value="Submit">
+    <input type="button" value="Submit to new tab">
+
+
+   </div>
+</body>  
+
+</html>
