@@ -1,0 +1,19 @@
+h1{
+    padding-left: 100px;
+    color: brown;
+}
+p{
+    color: blue;
+}
+b{
+    text-decoration: double underline;
+}
+.a{
+    text-decoration: line-through;
+}
+.b{
+    text-decoration: dotted overline;
+}
+.d{
+    text-decoration: overline underline rgb(80, 14, 24);
+}
