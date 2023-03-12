@@ -1,0 +1,24 @@
+.box{ display: inline-block;
+    margin: auto;
+    width: 380px;
+    height: 600px;
+    background-color: aquamarine;
+}
+input{
+    height: 30px;
+}
+.box2{display: inline-block;
+    margin: auto;
+    padding-top: 0%;
+    padding-bottom: 10%;
+    width: 380px;
+    height: 600px;
+    background-color: blue;
+}
+.box5{
+    width: 300px;
+}
+.box6{
+    border-radius: 5%;
+    background-color: blueviolet;
+}

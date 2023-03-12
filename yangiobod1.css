@@ -1,0 +1,36 @@
+
+.b{position: relative;
+    width: 120px;
+    height: 120px;
+    background-color: aquamarine;
+    z-index: 0;
+    margin-top: 30px;
+    margin-left: 40%;
+    top: 90px;
+    border-radius: 40px;
+    text-align: center;
+}
+.d{
+    width:  123px;
+    height: 123px;
+    background-color: azure;
+    position: relative;
+    z-index: 1;
+    margin-left: 50%;
+    margin-top: -30px;
+    border-radius: 40px;
+    text-align: center;
+}
+.e{position: relative;
+    width: 123px;
+    height: 123px;
+    background-color: brown;
+    z-index: 0;
+    margin-left: 60%;
+    margin-top: -121px;
+    border-radius: 40px;
+    text-align: center;
+}
+body{
+    background-color: rgb(201, 178, 178);
+}

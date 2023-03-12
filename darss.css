@@ -1,0 +1,29 @@
+p{
+ 
+   
+}
+body{height: 100vh;
+    background-color: rgb(47, 182, 6);
+
+}
+input{
+    border-radius: 50px;
+
+}
+div{
+    width: 400px;
+    height: 300px;
+    background-image: linear-gradient(to left bottom ,red,gold );
+    margin: auto;
+    text-align: center;
+    
+}
+.a1{
+    border-radius: 0%;
+    background-color: blue;
+    width: 175px;
+
+}
+h1{
+    color: blue;
+}

@@ -26,4 +26,13 @@ input{
     text-align: center;
     border: solid 3px rgb(17, 0, 255);
 }
+.za{
+    background-color: blue;
+    height: 30px;
+    width: 100px;
+}
+button{
+    background-color: brown;
+    height: 30px;
+}
 
